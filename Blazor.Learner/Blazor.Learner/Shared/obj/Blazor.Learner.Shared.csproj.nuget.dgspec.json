@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\truha\\Desktop\\Xiaomi Redmi_7 huinya\\Blazor.Learner\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj": {}
+    "C:\\Users\\truha\\Desktop\\huinya\\Blazor.Learner\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\truha\\Desktop\\Xiaomi Redmi_7 huinya\\Blazor.Learner\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj": {
+    "C:\\Users\\truha\\Desktop\\huinya\\Blazor.Learner\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\truha\\Desktop\\Xiaomi Redmi_7 huinya\\Blazor.Learner\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\truha\\Desktop\\huinya\\Blazor.Learner\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj",
         "projectName": "Blazor.Learner.Shared",
-        "projectPath": "C:\\Users\\truha\\Desktop\\Xiaomi Redmi_7 huinya\\Blazor.Learner\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj",
+        "projectPath": "C:\\Users\\truha\\Desktop\\huinya\\Blazor.Learner\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj",
         "packagesPath": "C:\\Users\\truha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\truha\\Desktop\\Xiaomi Redmi_7 huinya\\Blazor.Learner\\Blazor.Learner\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\truha\\Desktop\\huinya\\Blazor.Learner\\Blazor.Learner\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\truha\\AppData\\Roaming\\NuGet\\NuGet.Config",

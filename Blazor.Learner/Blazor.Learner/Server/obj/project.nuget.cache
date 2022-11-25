@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uSrvQsTNLuYAyJdBYKDMVdm2ILkWyXhz9REqxoU2jUFdNX60TV54isTbTBpLhkRiewCL+XLQf+LWyZFj2Kb65A==",
+  "dgSpecHash": "uqILXi8+Eb+9iZZOcDS2OByKonJc98PzHSeKJrUfyeBL3AspgalKQoHe3c0CCfOcwwZ6SHOCdJItV6fYm9gOhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\truha\\Desktop\\Xiaomi Redmi_7 huinya\\Blazor.Learner\\Blazor.Learner\\Server\\Blazor.Learner.Server.csproj",
+  "projectFilePath": "C:\\Users\\truha\\Desktop\\huinya\\Blazor.Learner\\Blazor.Learner\\Server\\Blazor.Learner.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\truha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\truha\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.17\\microsoft.aspnetcore.authorization.5.0.17.nupkg.sha512",

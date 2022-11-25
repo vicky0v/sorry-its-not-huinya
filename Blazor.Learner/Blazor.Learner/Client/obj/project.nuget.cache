@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZA/4HecvUsr8lxHQtHN0xj8qih6Hu5l0EZGnrRXCKu65zzQuv6kJag4on9qCuodO1FdCu5Iy1CA4IeuNbqmP1A==",
+  "dgSpecHash": "hhYQFnwBVNdjd2NzY727Rq03C9k9bogeGsEXEor6gGLMUgcG/lTOSPy/+MJnyL+khRmBQr0dcek48fXwTIYHiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\truha\\Desktop\\Xiaomi Redmi_7 huinya\\Blazor.Learner\\Blazor.Learner\\Client\\Blazor.Learner.Client.csproj",
+  "projectFilePath": "C:\\Users\\truha\\Desktop\\huinya\\Blazor.Learner\\Blazor.Learner\\Client\\Blazor.Learner.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\truha\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.17\\microsoft.aspnetcore.authorization.5.0.17.nupkg.sha512",
     "C:\\Users\\truha\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.17\\microsoft.aspnetcore.components.5.0.17.nupkg.sha512",
