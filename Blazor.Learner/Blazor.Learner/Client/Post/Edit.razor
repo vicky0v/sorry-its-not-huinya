@@ -1,0 +1,28 @@
+﻿@using Blazor.Learner.Shared.Models
+@page "/post/edit/{postId:int}"
+@inject HttpClient http
+@inject NavigationManager uriHelper
+@inject IJSRuntime js
+
+<h3>Edit Post</h3>
+
+<Form ButtonText="Update" post="post"
+      OnValidSubmit="@EditPost" />
+
+@code {
+    [Parameter] public int postId { get; set; }
+    Post post = new Post();
+
+    protected async override Task OnParametersSetAsync()
+    {
+        post = await http.GetFromJsonAsync<Post>($"api/post/{postId}");
+    }
+
+    async Task EditPost()
+    {
+        await http.PutAsJsonAsync("api/post", post);
+        await js.InvokeVoidAsync("alert", $"Updated Successfully!");
+        uriHelper.NavigateTo("post");
+
+    }
+}

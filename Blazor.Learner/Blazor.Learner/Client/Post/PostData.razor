@@ -1,0 +1,76 @@
+﻿@page "/Post"
+@using System.Globalization
+@using Blazor.Learner.Shared.Models
+@using System.ComponentModel.DataAnnotations
+@using System.Text.RegularExpressions
+@inject HttpClient client
+@inject IJSRuntime js
+
+<h3>Posts</h3>
+<small>Add as many developers as you wish.</small>
+<div class="form-group">
+    @* Кнопка для добавления нового разработчка *@
+    <a class="btn btn-success" href="post/create"><i class="oi oi-plus"></i> Create New</a>
+</div>
+<br>
+
+@if (posts == null)
+{
+    <text>Loading...</text>
+}
+else if (posts.Length == 0)
+{
+    <text>No Records Found.</text>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Author</th>
+                <th>Name</th>
+                <th>Category</th>
+                <th>Content</th>
+                <th>Date</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @* Цикл для отображения каждого разработчика в таблице *@
+            @foreach (Post pst in posts)
+            {
+                <tr>
+                    <td>@pst.Id</td>
+                    <td>@pst.Author</td>
+                    <td>@pst.Name</td>
+                    <td>@pst.Category</td>
+                    <td>@pst.Content</td>
+                    <td>@pst.Date</td>
+
+                    <td>
+                        <a class="btn btn-success" href="post/edit/@pst.Id">Edit</a>
+                        <button class="btn btn-danger" @onclick="@(() => Delete(pst.Id))">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    Post[] posts { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        posts = await client.GetFromJsonAsync<Post[]>("api/post");
+    }
+
+    async Task Delete(int postId)
+    {
+        var dev = posts.First(x => x.Id == postId);
+        if (await js.InvokeAsync<bool>("confirm", $"Do you want to delete {dev.Author}'s ({dev.Id}) Record?"))
+        {
+            await client.DeleteAsync($"api/post/{postId}");
+            await OnInitializedAsync();
+        }
+    }
+}

@@ -1,0 +1,393 @@
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.StaticWebAssets.xml
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.StaticWebAssets.xml
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.exe
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.deps.json
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.runtimeconfig.json
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.runtimeconfig.dev.json
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.pdb
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.Views.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.Views.pdb
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Shared.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.pdb
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Shared.pdb
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.AssemblyInfo.cs
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\scopedcss\bundle\Blazor.Learner.Server.styles.css
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\staticwebassets\Blazor.Learner.Server.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\staticwebassets\Blazor.Learner.Server.StaticWebAssets.xml
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.TagHelpers.input.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.TagHelpers.output.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorCoreGenerate.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.Views.pdb
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.CopyComplete
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\refint\Blazor.Learner.Server.dll
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.pdb
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.genruntimeconfig.cache
+C:\Users\user\Desktop\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\ref\Blazor.Learner.Server.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.StaticWebAssets.xml
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.StaticWebAssets.xml
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.exe
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.deps.json
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.runtimeconfig.json
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.runtimeconfig.dev.json
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.pdb
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.Views.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.Views.pdb
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Shared.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.pdb
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Shared.pdb
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.AssemblyInfo.cs
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorAssemblyInfo.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorAssemblyInfo.cs
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\scopedcss\bundle\Blazor.Learner.Server.styles.css
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\staticwebassets\Blazor.Learner.Server.StaticWebAssets.Manifest.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\staticwebassets\Blazor.Learner.Server.StaticWebAssets.xml
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.TagHelpers.input.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.TagHelpers.output.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorCoreGenerate.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorTargetAssemblyInfo.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorTargetAssemblyInfo.cs
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.Views.pdb
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.CopyComplete
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\refint\Blazor.Learner.Server.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.pdb
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.genruntimeconfig.cache
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\ref\Blazor.Learner.Server.dll
+C:\Users\user\Downloads\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.StaticWebAssets.xml
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.StaticWebAssets.xml
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.exe
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.deps.json
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.runtimeconfig.json
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.runtimeconfig.dev.json
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.pdb
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.Views.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.Views.pdb
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\MudBlazor.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Shared.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.pdb
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Shared.pdb
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.AssemblyReference.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.AssemblyInfoInputs.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.AssemblyInfo.cs
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.CoreCompileInputs.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorAssemblyInfo.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorAssemblyInfo.cs
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\scopedcss\bundle\Blazor.Learner.Server.styles.css
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\staticwebassets\Blazor.Learner.Server.StaticWebAssets.Manifest.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\staticwebassets\Blazor.Learner.Server.StaticWebAssets.xml
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.TagHelpers.input.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.TagHelpers.output.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorCoreGenerate.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorTargetAssemblyInfo.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorTargetAssemblyInfo.cs
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.Views.pdb
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.CopyComplete
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\refint\Blazor.Learner.Server.dll
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.pdb
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.genruntimeconfig.cache
+C:\Users\truha\Desktop\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\ref\Blazor.Learner.Server.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.StaticWebAssets.xml
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.StaticWebAssets.xml
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.exe
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.deps.json
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.runtimeconfig.json
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.runtimeconfig.dev.json
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.pdb
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.Views.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Server.Views.pdb
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\MudBlazor.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Shared.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Client.pdb
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\bin\Debug\net5.0\Blazor.Learner.Shared.pdb
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.AssemblyInfo.cs
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\scopedcss\bundle\Blazor.Learner.Server.styles.css
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\staticwebassets\Blazor.Learner.Server.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\staticwebassets\Blazor.Learner.Server.StaticWebAssets.xml
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.TagHelpers.input.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.TagHelpers.output.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorCoreGenerate.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.Views.pdb
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.csproj.CopyComplete
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\refint\Blazor.Learner.Server.dll
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.pdb
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\Blazor.Learner.Server.genruntimeconfig.cache
+C:\Users\user\Desktop\Blazor.Learner (2)\Blazor.Learner (2)\Blazor.Learner\Blazor.Learner\Blazor.Learner\Server\obj\Debug\net5.0\ref\Blazor.Learner.Server.dll

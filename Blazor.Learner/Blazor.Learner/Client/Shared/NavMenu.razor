@@ -1,0 +1,71 @@
+﻿@using MudBlazor
+<div class="top-row pl-4 navbar navbar-dark">
+    <a class="navbar-brand" href="">Blog</a>
+    <button class="navbar-toggler" @onclick="ToggleNavMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</div>
+<MudPaper Height="700px" Style="overflow:hidden; position:relative;">
+    <MudDrawerContainer Class="mud-height-full">
+        <MudDrawer @bind-Open="@open" Elevation="0" Variant="@DrawerVariant.Persistent" Color="Color.Dark">
+            <MudDrawerHeader>
+                <MudText Typo="Typo.h6">Menu</MudText>
+            </MudDrawerHeader>
+            <MudNavMenu>
+                <li class="nav-item px-3">
+                    <NavLink class="nav-link" href="" Match="NavLinkMatch.All" Style="@($"color:{Colors.LightGreen.Accent3}; background:{Colors.BlueGrey.Darken4};")">
+                        <MudMenu Icon="@Icons.Filled.Home" Color="Color.Success">
+                        </MudMenu>
+                    </NavLink>
+                </li>
+                <li class="nav-item px-3">
+                    <NavLink class="nav-link" href="counter" Style="@($"color:{Colors.LightGreen.Accent3}; background:{Colors.BlueGrey.Darken4};")">
+                        <MudMenu Icon="@Icons.Material.Filled.Favorite" Color="Color.Success">
+                        </MudMenu>
+                    </NavLink>
+                </li>
+                <li class="nav-item px-3">
+                    <NavLink class="nav-link" href="fetchdata" Style="@($"color:{Colors.LightGreen.Accent3};  background:{Colors.BlueGrey.Darken4};")">
+                        <MudMenu Icon="@Icons.Filled.Cloud" Color="Color.Success">
+                        </MudMenu>
+                    </NavLink>
+                </li>
+                <li class="nav-item px-3">
+                    <NavLink class="nav-link" href="developer" Style="@($"color:{Colors.LightGreen.Accent3};  background:{Colors.BlueGrey.Darken4};")">
+                        <MudMenu Icon="@Icons.Filled.Extension" Color="Color.Success">
+                        </MudMenu>
+                    </NavLink>
+                </li>
+                <li class="nav-item px-3">
+                    <NavLink class="nav-link" href="Post" Style="@($"color:{Colors.LightGreen.Accent3}; background:{Colors.BlueGrey.Darken4};")">
+
+                        <MudMenu Icon="@Icons.Filled.AddPhotoAlternate" Color="Color.Success">
+                        </MudMenu>
+                    </NavLink>
+                </li>
+            </MudNavMenu>
+        </MudDrawer>
+        <div class="d-flex justify-center align-center mud-height-full">
+            <MudButton Variant="Variant.Filled" Color="Color.Success" OnClick="@ToggleDrawer">Open menu</MudButton>
+        </div>
+    </MudDrawerContainer>
+</MudPaper>
+
+
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+    bool open = false;
+
+    void ToggleDrawer()
+    {
+        open = !open;
+    }
+}

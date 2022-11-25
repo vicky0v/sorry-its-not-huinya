@@ -1,0 +1,63 @@
+﻿@using MudBlazor
+@using System.Globalization
+@using Blazor.Learner.Shared.Models
+<h3>OurPageOne</h3>
+
+<EditForm Model="@post" OnValidSubmit="@OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label>Author :</label>
+        <div>
+            <InputText @bind-Value="@post.Author" />
+            <ValidationMessage For="@(() => post.Author)" />
+        </div>
+    </div>
+    <div class="form-group ">
+        <div>
+            <label>Name :</label>
+            <div>
+                <InputText @bind-Value="@post.Name" />
+                <ValidationMessage For="@(() => post.Name)" />
+            </div>
+        </div>
+    </div>
+    <div class="form-group ">
+        <div>
+            <label>Category :</label>
+            <div>
+                <InputText @bind-Value="@post.Category" />
+                <ValidationMessage For="@(() => post.Category)" />
+            </div>
+        </div>
+    </div>
+    <div class="form-group ">
+        <div>
+            <label>Content :</label>
+            <div>
+                <InputText @bind-Value="@post.Content" />
+                <ValidationMessage For="@(() => post.Content)" />
+            </div>
+        </div>
+    </div>
+    <div class="form-group ">
+        <div>
+            <label>Date :</label>
+            <div>
+                <InputDate @bind-Value="@post.Date" />
+                <ValidationMessage For="@(() => post.Date)" />
+            </div>
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-success">
+        @ButtonText
+    </button>
+
+</EditForm>
+
+
+@code {
+    [Parameter] public Post post { get; set; }
+    [Parameter] public string ButtonText { get; set; } = "Save";
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+}

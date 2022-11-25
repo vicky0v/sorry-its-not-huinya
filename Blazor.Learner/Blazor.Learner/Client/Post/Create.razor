@@ -1,0 +1,18 @@
+﻿@using Blazor.Learner.Shared.Models
+@page "/post/create"
+@inject HttpClient http
+@inject NavigationManager uriHelper
+
+<h3>Create Post</h3>
+
+<Form ButtonText="Create Blog" post="@post"
+      OnValidSubmit="@CreatePost" />
+
+@code {
+    Post post = new Post();
+    async Task CreatePost()
+    {
+        await http.PostAsJsonAsync("api/post", post);
+        uriHelper.NavigateTo("post");
+    }
+}
